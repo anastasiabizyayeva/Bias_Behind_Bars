@@ -23,6 +23,7 @@ Ultimately, what I found is that the majority of offender information pertained 
 * ['Confusion Matrix'](https://medium.com/analytics-vidhya/multi-class-ml-models-evaluation-103c9fdadb41)
 * ['Randomized & Grid Search for Random Forest'](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 
+
 ## Dataset
 
 The data consisted of one record for every offender managed by Correctional Services of Canada (CSC). The  data were extracted from the Offender Management System (OMS) and reflect the status and attributes  of offenders as of 2012-2013 fiscal year end and 2013-2014 fiscal year end. It contained roughly 750k records for roughly 50k offenders. 
@@ -63,7 +64,7 @@ During the data cleaning stage the following adjustments were made:
 
 ## EDA
 
-|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/offenders_gender.jpg "Gender of Offenders")|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/supervision_type.jpg "Supervision Type")|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/sentence_length.jpg "Sentence Length")|
+|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/offenders_gender.JPG "Gender of Offenders")|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/supervision_type.JPG "Supervision Type")|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/sentence_length.JPG "Sentence Length")|
 | ------------- |:-------------:| -----:|
 
 ## Feature Engineering 
