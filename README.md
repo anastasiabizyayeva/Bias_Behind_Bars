@@ -85,7 +85,7 @@ During the feature engineering stage we worked through the following steps:
 
 During the model-building phase, our goals were two-fold: first ,we wanted to put together a model that had a good accuracy score for predicting reintegration potential. Second, we wanted to explore whether there was a difference in the accuracy scores for white vs. non-white offender test sets. 
 
-|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/rf_cm.JPG =500x350 "Random Forest")|
+|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/rf_cm.JPG "Random Forest" =500x350)|
 | ------------- |
 
 In order to achieve this, we took the following steps:
