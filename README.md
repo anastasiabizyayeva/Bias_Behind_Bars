@@ -16,12 +16,12 @@ Ultimately, what I found is that the majority of offender information pertained 
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, missingno, xgboost
 
 **Helpful Articles:**
-* ['Annotating Seaborn'](https://stackoverflow.com/questions/43214978/seaborn-barplot-displaying-values)
-* ['Handing NaNs in Categorical Data'](https://medium.com/analytics-vidhya/best-way-to-impute-categorical-data-using-groupby-mean-mode-2dc5f5d4e12d)
-* ['Strategies for Working with Continuous Numeric Data'](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
-* ['Ordinal Encoding'](https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02)
-* ['Confusion Matrix'](https://medium.com/analytics-vidhya/multi-class-ml-models-evaluation-103c9fdadb41)
-* ['Randomized & Grid Search for Random Forest'](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
+* [Annotating Seaborn](https://stackoverflow.com/questions/43214978/seaborn-barplot-displaying-values)
+* [Handing NaNs in Categorical Data](https://medium.com/analytics-vidhya/best-way-to-impute-categorical-data-using-groupby-mean-mode-2dc5f5d4e12d)
+* [Strategies for Working with Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
+* [Ordinal Encoding](https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02)
+* [Confusion Matrix](https://medium.com/analytics-vidhya/multi-class-ml-models-evaluation-103c9fdadb41)
+* [Randomized & Grid Search for Random Forest](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 
 
 ## Dataset
