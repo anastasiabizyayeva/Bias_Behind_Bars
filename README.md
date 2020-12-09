@@ -78,14 +78,14 @@ During the feature engineering stage we worked through the following steps:
 * OneHot & ordinal encoded our variables.
 * Reshaped our dataframe so that each record is an inmate in a particular year.
 
-|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/missingno.jpg "Missingno")|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/corr_map.jpg "Heatmap")|![alt text]|
+|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/missingno.JPG "Missingno")|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/corr_map.JPG "Heatmap")|![alt text]|
 | ------------- |:-------------:| 
 
 ## Model Building
 
 During the model-building phase, our goals were two-fold: first ,we wanted to put together a model that had a good accuracy score for predicting reintegration potential. Second, we wanted to explore whether there was a difference in the accuracy scores for white vs. non-white offender test sets. 
 
-|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/rf_cm.jpg "Random Forest")|
+|![alt text](https://github.com/anastasiabizyayeva/Bias_Behind_Bars/blob/master/images/rf_cm.JPG "Random Forest")|
 | ------------- |
 
 In order to achieve this, we took the following steps:
