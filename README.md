@@ -90,7 +90,7 @@ During the model-building phase, our goals were two-fold: first ,we wanted to pu
 In order to achieve this, we took the following steps:
 
 * Carved out the white offenders for most of our modelling and split this dataset into training, validation, and test sets.
-* The remaining data, composed of non-white offenders, was be a secondary test set - our expectation was that if there's no racial bias in the dataset, our models should have perform identically on our white and non-white test sets.
+* The remaining data, composed of non-white offenders, was to be a secondary test set - our expectation was that if there's no racial bias in the dataset, our models should have perform identically on our white and non-white test sets.
 * Fit our data to the following models:
   * **Multinomial Logistic Regression - OvR:** Baseline model.
   * **K-Nearest Neighbors:** Helpful since it's a nonparametric model. Since we had a lot of data and don't want to worry too much about choosing just the right features this was a good addition to the exploration.
